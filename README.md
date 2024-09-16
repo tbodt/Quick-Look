@@ -1,0 +1,3 @@
+# Quick Look dot app
+
+Scratches an extremely specific itch. Have you ever tapped a sound file on Discord on iOS only to find it 1. opens in Safari 2. Safari treats sound files like entirely unknown files and does not offer the option to play the sound file, only a button to open in the default app and a share button, so you have to tap five times to save the sound in files and then go to files to trigger quick look? Now you can make Quick Look the default app for opening sound files and then you get to see a preview instantly! Yes you can easily write a shortcut for this but that's not an app so it can't end up as the default app and will require multiple taps to trigger.
